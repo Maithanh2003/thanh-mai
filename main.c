@@ -3,7 +3,7 @@
 //  mai
 //
 //  Created by apple on 28/02/2022.
-//
+//thanh mai da sua
 
 #include <stdio.h>
 int main() {
